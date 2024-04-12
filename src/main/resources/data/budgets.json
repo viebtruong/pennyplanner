@@ -1,0 +1,62 @@
+{"budgets":[
+  {
+    "id": "1",
+    "budgetName": "Home Renovation",
+    "totalIncome": 12000.00,
+    "totalExpense": 8500.00,
+    "startDate": "2023-04-01",
+    "endDate": "2023-09-30",
+    "savingsGoal": 1500.00,
+    "currentBalance": 3500.00,
+    "status": "Active",
+    "notifications": true
+  },
+  {
+    "id": "2",
+    "budgetName": "Vacation Savings",
+    "totalIncome": 10000.00,
+    "totalExpense": 4000.00,
+    "startDate": "2023-01-01",
+    "endDate": "2023-12-31",
+    "savingsGoal": 6000.00,
+    "currentBalance": 6000.00,
+    "status": "Active",
+    "notifications": false
+  },
+  {
+    "id": "3",
+    "budgetName": "Emergency Fund",
+    "totalIncome": 8000.00,
+    "totalExpense": 2000.00,
+    "startDate": "2023-03-01",
+    "endDate": "2023-08-31",
+    "savingsGoal": 5000.00,
+    "currentBalance": 6000.00,
+    "status": "Active",
+    "notifications": true
+  },
+  {
+    "id": "4",
+    "budgetName": "Car Savings",
+    "totalIncome": 15000.00,
+    "totalExpense": 5000.00,
+    "startDate": "2023-05-01",
+    "endDate": "2023-10-31",
+    "savingsGoal": 10000.00,
+    "currentBalance": 10000.00,
+    "status": "Active",
+    "notifications": true
+  },
+  {
+    "id": "5",
+    "budgetName": "Christmas Gifts",
+    "totalIncome": 5000.00,
+    "totalExpense": 1000.00,
+    "startDate": "2023-10-01",
+    "endDate": "2023-12-25",
+    "savingsGoal": 3000.00,
+    "currentBalance": 4000.00,
+    "status": "Active",
+    "notifications": false
+  }
+]}
